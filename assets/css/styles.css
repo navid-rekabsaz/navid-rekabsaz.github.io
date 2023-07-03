@@ -4389,7 +4389,7 @@ p {
     margin-bottom: 0;
 }
 a {
-    color: #000000; /*#505050;*/
+    /*color: #505050; #505050;*/
     text-decoration: none;
 }
 a:hover, a:focus {
